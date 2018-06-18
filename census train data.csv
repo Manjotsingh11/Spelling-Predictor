@@ -1,0 +1,643 @@
+State,District,Level,Name,Total Population,Classification,lower
+01,001,DISTRICT,Kupwara,870354,Urban,kupwara
+01,002,DISTRICT,Badgam,753745,Urban,badgam
+01,003,DISTRICT,Leh(Ladakh),133487,Urban,leh(ladakh)
+01,004,DISTRICT,Kargil,140802,Urban,kargil
+01,005,DISTRICT,Punch,476835,Urban,punch
+01,006,DISTRICT,Rajouri,642415,Urban,rajouri
+01,007,DISTRICT,Kathua,616435,Urban,kathua
+01,008,DISTRICT,Baramula,1008039,Metropolitan,baramula
+01,009,DISTRICT,Bandipore,392232,Urban,new delhi
+01,010,DISTRICT,Srinagar,1236829,Metropolitan,dilli
+01,011,DISTRICT,Ganderbal,297446,Urban,ganderbal
+01,012,DISTRICT,Pulwama,560440,Urban,pulwama
+01,013,DISTRICT,Shupiyan,266215,Urban,shupiyan
+01,014,DISTRICT,Anantnag,1078692,Metropolitan,anantnag
+01,015,DISTRICT,Kulgam,424483,Urban,kulgam
+01,016,DISTRICT,Doda,409936,Urban,doda
+01,017,DISTRICT,Ramban,283713,Urban,ramban
+01,018,DISTRICT,Kishtwar,230696,Urban,kishtwar
+01,019,DISTRICT,Udhampur,554985,Urban,udhampur
+01,020,DISTRICT,Reasi,314667,Urban,reasi
+01,021,DISTRICT,Jammu,1529958,Metropolitan,jammu
+01,022,DISTRICT,Samba,318898,Urban,samba
+02,023,DISTRICT,Chamba,519080,Urban,chamba
+02,024,DISTRICT,Kangra,1510075,Metropolitan,kangra
+02,025,DISTRICT,Lahul & Spiti,31564,Semi-Urban,lahul & spiti
+02,026,DISTRICT,Kullu,437903,Urban,kullu
+02,027,DISTRICT,Mandi,999777,Urban,mandi
+02,028,DISTRICT,Hamirpur,454768,Urban,hamirpur
+02,029,DISTRICT,Una,521173,Urban,una
+02,030,DISTRICT,Bilaspur,381956,Urban,bilaspur
+02,031,DISTRICT,Solan,580320,Urban,solan
+02,032,DISTRICT,Sirmaur,529855,Urban,sirmaur
+02,033,DISTRICT,Shimla,814010,Urban,shimla
+02,034,DISTRICT,Kinnaur,84121,Semi-Urban,kinnaur
+03,035,DISTRICT,Gurdaspur,2298323,Metropolitan,gurdaspur
+03,036,DISTRICT,Kapurthala ,815168,Urban,kapurthala 
+03,037,DISTRICT,Jalandhar,2193590,Metropolitan,jalandhar
+03,038,DISTRICT,Hoshiarpur,1586625,Metropolitan,hoshiarpur
+03,039,DISTRICT,Shahid Bhagat Singh Nagar ,612310,Urban,shahid bhagat singh nagar 
+03,040,DISTRICT,Fatehgarh Sahib,600163,Urban,fatehgarh sahib
+03,041,DISTRICT,Ludhiana,3498739,Metropolitan,ludhiana
+03,042,DISTRICT,Moga,995746,Urban,moga
+03,043,DISTRICT,Firozpur,2029074,Metropolitan,firozpur
+03,044,DISTRICT,Muktsar,901896,Urban,muktsar
+03,045,DISTRICT,Faridkot,617508,Urban,faridkot
+03,046,DISTRICT,Bathinda,1388525,Metropolitan,bathinda
+03,047,DISTRICT,Mansa,769751,Urban,mansa
+03,048,DISTRICT,Patiala,1895686,Metropolitan,patiala
+03,049,DISTRICT,Amritsar ,2490656,Metropolitan,amritsar 
+03,050,DISTRICT,Tarn Taran,1119627,Metropolitan,tarn taran
+03,051,DISTRICT,Rupnagar,684627,Urban,rupnagar
+03,052,DISTRICT,Sahibzada Ajit Singh Nagar,994628,Urban,sahibzada ajit singh nagar
+03,053,DISTRICT,Sangrur,1655169,Metropolitan,sangrur
+03,054,DISTRICT,Barnala,595527,Urban,barnala
+04,055,DISTRICT,Chandigarh,1055450,Metropolitan,chandigarh
+05,056,DISTRICT,Uttarkashi,330086,Urban,uttarkashi
+05,057,DISTRICT,Chamoli,391605,Urban,chamoli
+05,058,DISTRICT,Rudraprayag,242285,Urban,rudraprayag
+05,059,DISTRICT,Tehri Garhwal,618931,Urban,tehri garhwal
+05,060,DISTRICT,Dehradun,1696694,Metropolitan,dehradun
+05,061,DISTRICT,Garhwal,687271,Urban,garhwal
+05,062,DISTRICT,Pithoragarh,483439,Urban,pithoragarh
+05,063,DISTRICT,Bageshwar,259898,Urban,bageshwar
+05,064,DISTRICT,"Almora
+",622506,Urban,"almora
+"
+05,065,DISTRICT,Champawat,259648,Urban,champawat
+05,066,DISTRICT,Nainital,954605,Urban,nainital
+05,067,DISTRICT,Udham Singh Nagar,1648902,Metropolitan,udham singh nagar
+05,068,DISTRICT,Hardwar,1890422,Metropolitan,hardwar
+06,069,DISTRICT,Panchkula,561293,Urban,panchkula
+06,070,DISTRICT,Ambala,1128350,Metropolitan,ambala
+06,071,DISTRICT,Yamunanagar,1214205,Metropolitan,yamunanagar
+06,072,DISTRICT,Kurukshetra,964655,Urban,kurukshetra
+06,073,DISTRICT,Kaithal,1074304,Metropolitan,kaithal
+06,074,DISTRICT,Karnal,1505324,Metropolitan,karnal
+06,075,DISTRICT,Panipat,1205437,Metropolitan,panipat
+06,076,DISTRICT,Sonipat,1450001,Metropolitan,sonipat
+06,077,DISTRICT,Jind,1334152,Metropolitan,jind
+06,078,DISTRICT,Fatehabad,942011,Urban,fatehabad
+06,079,DISTRICT,Sirsa,1295189,Metropolitan,sirsa
+06,080,DISTRICT,Hisar,1743931,Metropolitan,hisar
+06,081,DISTRICT,Bhiwani,1634445,Metropolitan,bhiwani
+06,082,DISTRICT,Rohtak,1061204,Metropolitan,rohtak
+06,083,DISTRICT,Jhajjar,958405,Urban,jhajjar
+06,084,DISTRICT,Mahendragarh,922088,Urban,mahendragarh
+06,085,DISTRICT,Rewari,900332,Urban,rewari
+06,086,DISTRICT,Gurgaon,1514432,Metropolitan,gurgaon
+06,087,DISTRICT,Mewat ,1089263,Metropolitan,mewat 
+06,088,DISTRICT,Faridabad,1809733,Metropolitan,faridabad
+06,089,DISTRICT,Palwal ,1042708,Metropolitan,palwal 
+07,090,DISTRICT,North West,3656539,Metropolitan,north west
+07,091,DISTRICT,North,887978,Urban,north
+07,092,DISTRICT,North East,2241624,Metropolitan,north east
+07,093,DISTRICT,East,1709346,Metropolitan,east
+07,094,DISTRICT,New Delhi,142004,Urban,new delhi
+07,095,DISTRICT,Central,582320,Urban,central
+07,096,DISTRICT,West,2543243,Metropolitan,west
+07,097,DISTRICT,South West,2292958,Metropolitan,south west
+07,098,DISTRICT,South,2731929,Metropolitan,south
+08,099,DISTRICT,Ganganagar ,1969168,Metropolitan,ganganagar 
+08,100,DISTRICT,Hanumangarh,1774692,Metropolitan,hanumangarh
+08,101,DISTRICT,Bikaner,2363937,Metropolitan,bikaner
+08,102,DISTRICT,Churu,2039547,Metropolitan,churu
+08,103,DISTRICT,Jhunjhunun,2137045,Metropolitan,jhunjhunun
+08,104,DISTRICT,Alwar,3674179,Metropolitan,alwar
+08,105,DISTRICT,Bharatpur,2548462,Metropolitan,bharatpur
+08,106,DISTRICT,Dhaulpur,1206516,Metropolitan,dhaulpur
+08,107,DISTRICT,Karauli,1458248,Metropolitan,karauli
+08,108,DISTRICT,Sawai Madhopur,1335551,Metropolitan,sawai madhopur
+08,109,DISTRICT,Dausa,1634409,Metropolitan,dausa
+08,110,DISTRICT,Jaipur,6626178,Metropolitan,jaipur
+08,111,DISTRICT,Sikar,2677333,Metropolitan,sikar
+08,112,DISTRICT,Nagaur,3307743,Metropolitan,nagaur
+08,113,DISTRICT,Jodhpur,3687165,Metropolitan,jodhpur
+08,114,DISTRICT,Jaisalmer,669919,Urban,jaisalmer
+08,115,DISTRICT,Barmer,2603751,Metropolitan,barmer
+08,116,DISTRICT,Jalor,1828730,Metropolitan,jalor
+08,117,DISTRICT,Sirohi,1036346,Metropolitan,sirohi
+08,118,DISTRICT,Pali,2037573,Metropolitan,pali
+08,119,DISTRICT,Ajmer,2583052,Metropolitan,ajmer
+08,120,DISTRICT,Tonk,1421326,Metropolitan,tonk
+08,121,DISTRICT,Bundi,1110906,Metropolitan,bundi
+08,122,DISTRICT,Bhilwara,2408523,Metropolitan,bhilwara
+08,123,DISTRICT,Rajsamand,1156597,Metropolitan,rajsamand
+08,124,DISTRICT,Dungarpur,1388552,Metropolitan,dungarpur
+08,125,DISTRICT,Banswara,1797485,Metropolitan,banswara
+08,126,DISTRICT,Chittaurgarh,1544338,Metropolitan,chittaurgarh
+08,127,DISTRICT,Kota,1951014,Metropolitan,kota
+08,128,DISTRICT,Baran,1222755,Metropolitan,baran
+08,129,DISTRICT,Jhalawar,1411129,Metropolitan,jhalawar
+08,130,DISTRICT,Udaipur,3068420,Metropolitan,udaipur
+08,131,DISTRICT,Pratapgarh,867848,Urban,pratapgarh
+09,132,DISTRICT,Saharanpur,3466382,Metropolitan,saharanpur
+09,133,DISTRICT,Muzaffarnagar,4143512,Metropolitan,muzaffarnagar
+09,134,DISTRICT,Bijnor,3682713,Metropolitan,bijnor
+09,135,DISTRICT,Moradabad,4772006,Metropolitan,moradabad
+09,136,DISTRICT,Rampur,2335819,Metropolitan,rampur
+09,137,DISTRICT,Jyotiba Phule Nagar,1840221,Metropolitan,jyotiba phule nagar
+09,138,DISTRICT,Meerut,3443689,Metropolitan,meerut
+09,139,DISTRICT,Baghpat,1303048,Metropolitan,baghpat
+09,140,DISTRICT,Ghaziabad,4681645,Metropolitan,ghaziabad
+09,141,DISTRICT,Gautam Buddha Nagar,1648115,Metropolitan,gautam buddha nagar
+09,142,DISTRICT,Bulandshahr ,3499171,Metropolitan,bulandshahr 
+09,143,DISTRICT,Aligarh,3673889,Metropolitan,aligarh
+09,144,DISTRICT,Mahamaya Nagar,1564708,Metropolitan,mahamaya nagar
+09,145,DISTRICT,Mathura,2547184,Metropolitan,mathura
+09,146,DISTRICT,Agra,4418797,Metropolitan,agra
+09,147,DISTRICT,Firozabad,2498156,Metropolitan,firozabad
+09,148,DISTRICT,Mainpuri,1868529,Metropolitan,mainpuri
+09,149,DISTRICT,Budaun,3681896,Metropolitan,budaun
+09,150,DISTRICT,Bareilly,4448359,Metropolitan,bareilly
+09,151,DISTRICT,Pilibhit,2031007,Metropolitan,pilibhit
+09,152,DISTRICT,Shahjahanpur,3006538,Metropolitan,shahjahanpur
+09,153,DISTRICT,Kheri,4021243,Metropolitan,kheri
+09,154,DISTRICT,Sitapur,4483992,Metropolitan,sitapur
+09,155,DISTRICT,Hardoi,4092845,Metropolitan,hardoi
+09,156,DISTRICT,Unnao,3108367,Metropolitan,unnao
+09,157,DISTRICT,Lucknow,4589838,Metropolitan,lucknow
+09,158,DISTRICT,Rae Bareli,3405559,Metropolitan,rae bareli
+09,159,DISTRICT,Farrukhabad,1885204,Metropolitan,farrukhabad
+09,160,DISTRICT,Kannauj,1656616,Metropolitan,kannauj
+09,161,DISTRICT,Etawah,1581810,Metropolitan,etawah
+09,162,DISTRICT,Auraiya,1379545,Metropolitan,auraiya
+09,163,DISTRICT,Kanpur Dehat,1796184,Metropolitan,kanpur dehat
+09,164,DISTRICT,Kanpur Nagar,4581268,Metropolitan,kanpur nagar
+09,165,DISTRICT,Jalaun ,1689974,Metropolitan,jalaun 
+09,166,DISTRICT,Jhansi,1998603,Metropolitan,jhansi
+09,167,DISTRICT,Lalitpur,1221592,Metropolitan,lalitpur
+09,168,DISTRICT,Hamirpur,1104285,Metropolitan,hamirpur
+09,169,DISTRICT,Mahoba,875958,Urban,mahoba
+09,170,DISTRICT,Banda,1799410,Metropolitan,banda
+09,171,DISTRICT,Chitrakoot,991730,Urban,chitrakoot
+09,172,DISTRICT,Fatehpur,2632733,Metropolitan,fatehpur
+09,173,DISTRICT,Pratapgarh,3209141,Metropolitan,pratapgarh
+09,174,DISTRICT,Kaushambi,1599596,Metropolitan,kaushambi
+09,175,DISTRICT,Allahabad ,5954391,Metropolitan,allahabad 
+09,176,DISTRICT,Bara Banki,3260699,Metropolitan,bara banki
+09,177,DISTRICT,Faizabad,2470996,Metropolitan,faizabad
+09,178,DISTRICT,Ambedkar Nagar,2397888,Metropolitan,ambedkar nagar
+09,179,DISTRICT,Sultanpur,3797117,Metropolitan,sultanpur
+09,180,DISTRICT,Bahraich,3487731,Metropolitan,bahraich
+09,181,DISTRICT,Shrawasti,1117361,Metropolitan,shrawasti
+09,182,DISTRICT,Balrampur,2148665,Metropolitan,balrampur
+09,183,DISTRICT,Gonda,3433919,Metropolitan,gonda
+09,184,DISTRICT,Siddharthnagar,2559297,Metropolitan,siddharthnagar
+09,185,DISTRICT,Basti,2464464,Metropolitan,basti
+09,186,DISTRICT,Sant Kabir Nagar,1715183,Metropolitan,sant kabir nagar
+09,187,DISTRICT,Mahrajganj,2684703,Metropolitan,mahrajganj
+09,188,DISTRICT,Gorakhpur,4440895,Metropolitan,gorakhpur
+09,189,DISTRICT,Kushinagar,3564544,Metropolitan,kushinagar
+09,190,DISTRICT,Deoria,3100946,Metropolitan,deoria
+09,191,DISTRICT,Azamgarh,4613913,Metropolitan,azamgarh
+09,192,DISTRICT,Mau,2205968,Metropolitan,mau
+09,193,DISTRICT,Ballia,3239774,Metropolitan,ballia
+09,194,DISTRICT,Jaunpur,4494204,Metropolitan,jaunpur
+09,195,DISTRICT,Ghazipur,3620268,Metropolitan,ghazipur
+09,196,DISTRICT,Chandauli,1952756,Metropolitan,chandauli
+09,197,DISTRICT,Varanasi,3676841,Metropolitan,varanasi
+09,198,DISTRICT,Sant Ravidas Nagar (Bhadohi),1578213,Metropolitan,sant ravidas nagar (bhadohi)
+09,199,DISTRICT,Mirzapur,2496970,Metropolitan,mirzapur
+09,200,DISTRICT,Sonbhadra,1862559,Metropolitan,sonbhadra
+09,201,DISTRICT,Etah,1774480,Metropolitan,etah
+09,202,DISTRICT,Kanshiram Nagar,1436719,Metropolitan,kanshiram nagar
+10,203,DISTRICT,Pashchim Champaran,3935042,Metropolitan,pashchim champaran
+10,204,DISTRICT,Purba Champaran,5099371,Metropolitan,purba champaran
+10,205,DISTRICT,Sheohar,656246,Urban,sheohar
+10,206,DISTRICT,Sitamarhi,3423574,Metropolitan,sitamarhi
+10,207,DISTRICT,Madhubani,4487379,Metropolitan,madhubani
+10,208,DISTRICT,Supaul,2229076,Metropolitan,supaul
+10,209,DISTRICT,Araria,2811569,Metropolitan,araria
+10,210,DISTRICT,Kishanganj,1690400,Metropolitan,kishanganj
+10,211,DISTRICT,Purnia,3264619,Metropolitan,purnia
+10,212,DISTRICT,Katihar,3071029,Metropolitan,katihar
+10,213,DISTRICT,Madhepura,2001762,Metropolitan,madhepura
+10,214,DISTRICT,Saharsa,1900661,Metropolitan,saharsa
+10,215,DISTRICT,Darbhanga,3937385,Metropolitan,darbhanga
+10,216,DISTRICT,Muzaffarpur,4801062,Metropolitan,muzaffarpur
+10,217,DISTRICT,Gopalganj,2562012,Metropolitan,gopalganj
+10,218,DISTRICT,Siwan,3330464,Metropolitan,siwan
+10,219,DISTRICT,Saran,3951862,Metropolitan,saran
+10,220,DISTRICT,Vaishali,3495021,Metropolitan,vaishali
+10,221,DISTRICT,Samastipur,4261566,Metropolitan,samastipur
+10,222,DISTRICT,Begusarai,2970541,Metropolitan,begusarai
+10,223,DISTRICT,Khagaria,1666886,Metropolitan,khagaria
+10,224,DISTRICT,Bhagalpur,3037766,Metropolitan,bhagalpur
+10,225,DISTRICT,Banka,2034763,Metropolitan,banka
+10,226,DISTRICT,Munger,1367765,Metropolitan,munger
+10,227,DISTRICT,Lakhisarai,1000912,Metropolitan,lakhisarai
+10,228,DISTRICT,Sheikhpura,636342,Urban,sheikhpura
+10,229,DISTRICT,Nalanda,2877653,Metropolitan,nalanda
+10,230,DISTRICT,Patna,5838465,Metropolitan,patna
+10,231,DISTRICT,Bhojpur,2728407,Metropolitan,bhojpur
+10,232,DISTRICT,Buxar,1706352,Metropolitan,buxar
+10,233,DISTRICT,Kaimur (Bhabua),1626384,Metropolitan,kaimur (bhabua)
+10,234,DISTRICT,Rohtas,2959918,Metropolitan,rohtas
+10,235,DISTRICT,Aurangabad,2540073,Metropolitan,aurangabad
+10,236,DISTRICT,Gaya,4391418,Metropolitan,gaya
+10,237,DISTRICT,Nawada,2219146,Metropolitan,nawada
+10,238,DISTRICT,Jamui,1760405,Metropolitan,jamui
+10,239,DISTRICT,Jehanabad ,1125313,Metropolitan,jehanabad 
+10,240,DISTRICT,Arwal,700843,Urban,arwal
+11,241,DISTRICT,North  District,43709,Semi-Urban,north  district
+11,242,DISTRICT,West District,136435,Urban,west district
+11,243,DISTRICT,South District,146850,Urban,south district
+11,244,DISTRICT,East District,283583,Urban,east district
+12,245,DISTRICT,Tawang,49977,Semi-Urban,tawang
+12,246,DISTRICT,West Kameng,83947,Semi-Urban,west kameng
+12,247,DISTRICT,East Kameng,78690,Semi-Urban,east kameng
+12,248,DISTRICT,Papum Pare,176573,Urban,papum pare
+12,249,DISTRICT,Upper Subansiri,83448,Semi-Urban,upper subansiri
+12,250,DISTRICT,West Siang,112274,Urban,west siang
+12,251,DISTRICT,East Siang,99214,Semi-Urban,east siang
+12,252,DISTRICT,Upper Siang,35320,Semi-Urban,upper siang
+12,253,DISTRICT,Changlang,148226,Urban,changlang
+12,254,DISTRICT,Tirap,111975,Urban,tirap
+12,255,DISTRICT,Lower Subansiri,83030,Semi-Urban,lower subansiri
+12,256,DISTRICT,Kurung Kumey,92076,Semi-Urban,kurung kumey
+12,257,DISTRICT,Dibang Valley,8004,Rural,dibang valley
+12,258,DISTRICT,Lower Dibang Valley,54080,Semi-Urban,lower dibang valley
+12,259,DISTRICT,Lohit,145726,Urban,lohit
+12,260,DISTRICT,Anjaw,21167,Semi-Urban,anjaw
+13,261,DISTRICT,Mon,250260,Urban,mon
+13,262,DISTRICT,Mokokchung,194622,Urban,mokokchung
+13,263,DISTRICT,Zunheboto,140757,Urban,zunheboto
+13,264,DISTRICT,Wokha,166343,Urban,wokha
+13,265,DISTRICT,Dimapur ,378811,Urban,dimapur 
+13,266,DISTRICT,Phek,163418,Urban,phek
+13,267,DISTRICT,Tuensang,196596,Urban,tuensang
+13,268,DISTRICT,Longleng,50484,Semi-Urban,longleng
+13,269,DISTRICT,Kiphire,74004,Semi-Urban,kiphire
+13,270,DISTRICT,Kohima,267988,Urban,kohima
+13,271,DISTRICT,Peren,95219,Semi-Urban,peren
+14,272,DISTRICT,Senapati,479148,Urban,senapati
+14,273,DISTRICT,Tamenglong ,140651,Urban,tamenglong 
+14,274,DISTRICT,Churachandpur,274143,Urban,churachandpur
+14,275,DISTRICT,Bishnupur,237399,Urban,bishnupur
+14,276,DISTRICT,Thoubal,422168,Urban,thoubal
+14,277,DISTRICT,Imphal West,517992,Urban,imphal west
+14,278,DISTRICT,Imphal East,456113,Urban,imphal east
+14,279,DISTRICT,Ukhrul,183998,Urban,ukhrul
+14,280,DISTRICT,Chandel,144182,Urban,chandel
+15,281,DISTRICT,Mamit,86364,Semi-Urban,mamit
+15,282,DISTRICT,Kolasib,83955,Semi-Urban,kolasib
+15,283,DISTRICT,Aizawl,400309,Urban,aizawl
+15,284,DISTRICT,Champhai,125745,Urban,champhai
+15,285,DISTRICT,Serchhip,64937,Semi-Urban,serchhip
+15,286,DISTRICT,Lunglei,161428,Urban,lunglei
+15,287,DISTRICT,Lawngtlai,117894,Urban,lawngtlai
+15,288,DISTRICT,Saiha,56574,Semi-Urban,saiha
+16,289,DISTRICT,West Tripura ,1725739,Metropolitan,west tripura 
+16,290,DISTRICT,South Tripura ,876001,Urban,south tripura 
+16,291,DISTRICT,Dhalai,378230,Urban,dhalai
+16,292,DISTRICT,North Tripura,693947,Urban,north tripura
+17,293,DISTRICT,West Garo Hills,643291,Urban,west garo hills
+17,294,DISTRICT,East Garo Hills,317917,Urban,east garo hills
+17,295,DISTRICT,South Garo Hills,142334,Urban,south garo hills
+17,296,DISTRICT,West Khasi Hills,383461,Urban,west khasi hills
+17,297,DISTRICT,Ribhoi,258840,Urban,ribhoi
+17,298,DISTRICT,East Khasi Hills,825922,Urban,east khasi hills
+17,299,DISTRICT,Jaintia Hills,395124,Urban,jaintia hills
+18,300,DISTRICT,Kokrajhar,887142,Urban,kokrajhar
+18,301,DISTRICT,Dhubri,1949258,Metropolitan,dhubri
+18,302,DISTRICT,Goalpara,1008183,Metropolitan,goalpara
+18,303,DISTRICT,Barpeta,1693622,Metropolitan,barpeta
+18,304,DISTRICT,Morigaon,957423,Urban,morigaon
+18,305,DISTRICT,Nagaon,2823768,Metropolitan,nagaon
+18,306,DISTRICT,Sonitpur,1924110,Metropolitan,sonitpur
+18,307,DISTRICT,Lakhimpur,1042137,Metropolitan,lakhimpur
+18,308,DISTRICT,Dhemaji,686133,Urban,dhemaji
+18,309,DISTRICT,Tinsukia,1327929,Metropolitan,tinsukia
+18,310,DISTRICT,Dibrugarh,1326335,Metropolitan,dibrugarh
+18,311,DISTRICT,Sivasagar,1151050,Metropolitan,sivasagar
+18,312,DISTRICT,Jorhat,1092256,Metropolitan,jorhat
+18,313,DISTRICT,Golaghat,1066888,Metropolitan,golaghat
+18,314,DISTRICT,Karbi Anglong,956313,Urban,karbi anglong
+18,315,DISTRICT,Dima Hasao,214102,Urban,dima hasao
+18,316,DISTRICT,Cachar,1736617,Metropolitan,cachar
+18,317,DISTRICT,Karimganj,1228686,Metropolitan,karimganj
+18,318,DISTRICT,Hailakandi,659296,Urban,hailakandi
+18,319,DISTRICT,Bongaigaon,738804,Urban,bongaigaon
+18,320,DISTRICT,Chirang,482162,Urban,chirang
+18,321,DISTRICT,Kamrup,1517542,Metropolitan,kamrup
+18,322,DISTRICT,Kamrup Metropolitan,1253938,Metropolitan,kamrup metropolitan
+18,323,DISTRICT,Nalbari,771639,Urban,nalbari
+18,324,DISTRICT,Baksa,950075,Urban,baksa
+18,325,DISTRICT,Darrang,928500,Urban,darrang
+18,326,DISTRICT,Udalguri,831668,Urban,udalguri
+19,327,DISTRICT,Darjiling ,1846823,Metropolitan,darjiling 
+19,328,DISTRICT,Jalpaiguri ,3872846,Metropolitan,jalpaiguri 
+19,329,DISTRICT,Koch Bihar ,2819086,Metropolitan,koch bihar 
+19,330,DISTRICT,Uttar Dinajpur,3007134,Metropolitan,uttar dinajpur
+19,331,DISTRICT,Dakshin Dinajpur,1676276,Metropolitan,dakshin dinajpur
+19,332,DISTRICT,Maldah ,3988845,Metropolitan,maldah 
+19,333,DISTRICT,Murshidabad ,7103807,Metropolitan,murshidabad 
+19,334,DISTRICT,Birbhum,3502404,Metropolitan,birbhum
+19,335,DISTRICT,Barddhaman ,7717563,Metropolitan,barddhaman 
+19,336,DISTRICT,Nadia ,5167600,Metropolitan,nadia 
+19,337,DISTRICT,North Twenty Four Parganas,10009781,Metropolitan,north twenty four parganas
+19,338,DISTRICT,Hugli ,5519145,Metropolitan,hugli 
+19,339,DISTRICT,Bankura ,3596674,Metropolitan,bankura 
+19,340,DISTRICT,Puruliya,2930115,Metropolitan,puruliya
+19,341,DISTRICT,Haora ,4850029,Metropolitan,haora 
+19,342,DISTRICT,Kolkata,4496694,Metropolitan,kolkata
+19,343,DISTRICT,South Twenty Four Parganas,8161961,Metropolitan,south twenty four parganas
+19,344,DISTRICT,Paschim Medinipur,5913457,Metropolitan,paschim medinipur
+19,345,DISTRICT,Purba Medinipur,5095875,Metropolitan,purba medinipur
+20,346,DISTRICT,Garhwa ,1322784,Metropolitan,garhwa 
+20,347,DISTRICT,Chatra,1042886,Metropolitan,chatra
+20,348,DISTRICT,Kodarma,716259,Urban,kodarma
+20,349,DISTRICT,Giridih,2445474,Metropolitan,giridih
+20,350,DISTRICT,Deoghar,1492073,Metropolitan,deoghar
+20,351,DISTRICT,Godda,1313551,Metropolitan,godda
+20,352,DISTRICT,Sahibganj,1150567,Metropolitan,sahibganj
+20,353,DISTRICT,Pakur,900422,Urban,pakur
+20,354,DISTRICT,Dhanbad,2684487,Metropolitan,dhanbad
+20,355,DISTRICT,Bokaro,2062330,Metropolitan,bokaro
+20,356,DISTRICT,Lohardaga,461790,Urban,lohardaga
+20,357,DISTRICT,Purbi Singhbhum,2293919,Metropolitan,purbi singhbhum
+20,358,DISTRICT,Palamu,1939869,Metropolitan,palamu
+20,359,DISTRICT,Latehar,726978,Urban,latehar
+20,360,DISTRICT,Hazaribagh,1734495,Metropolitan,hazaribagh
+20,361,DISTRICT,Ramgarh,949443,Urban,ramgarh
+20,362,DISTRICT,Dumka,1321442,Metropolitan,dumka
+20,363,DISTRICT,Jamtara,791042,Urban,jamtara
+20,364,DISTRICT,Ranchi,2914253,Metropolitan,ranchi
+20,365,DISTRICT,Khunti,531885,Urban,khunti
+20,366,DISTRICT,Gumla,1025213,Metropolitan,gumla
+20,367,DISTRICT,Simdega,599578,Urban,simdega
+20,368,DISTRICT,Pashchimi Singhbhum,1502338,Metropolitan,pashchimi singhbhum
+20,369,DISTRICT,Saraikela-Kharsawan,1065056,Metropolitan,saraikela-kharsawan
+21,370,DISTRICT,Bargarh,1481255,Metropolitan,bargarh
+21,371,DISTRICT,Jharsuguda,579505,Urban,jharsuguda
+21,372,DISTRICT,Sambalpur,1041099,Metropolitan,sambalpur
+21,373,DISTRICT,Debagarh,312520,Urban,debagarh
+21,374,DISTRICT,Sundargarh,2093437,Metropolitan,sundargarh
+21,375,DISTRICT,Kendujhar,1801733,Metropolitan,kendujhar
+21,376,DISTRICT,Mayurbhanj,2519738,Metropolitan,mayurbhanj
+21,377,DISTRICT,Baleshwar,2320529,Metropolitan,baleshwar
+21,378,DISTRICT,Bhadrak,1506337,Metropolitan,bhadrak
+21,379,DISTRICT,Kendrapara ,1440361,Metropolitan,kendrapara 
+21,380,DISTRICT,Jagatsinghapur ,1136971,Metropolitan,jagatsinghapur 
+21,381,DISTRICT,Cuttack,2624470,Metropolitan,cuttack
+21,382,DISTRICT,Jajapur  ,1827192,Metropolitan,jajapur  
+21,383,DISTRICT,Dhenkanal,1192811,Metropolitan,dhenkanal
+21,384,DISTRICT,Anugul  ,1273821,Metropolitan,anugul  
+21,385,DISTRICT,Nayagarh  ,962789,Urban,nayagarh  
+21,386,DISTRICT,Khordha ,2251673,Metropolitan,khordha 
+21,387,DISTRICT,Puri,1698730,Metropolitan,puri
+21,388,DISTRICT,Ganjam,3529031,Metropolitan,ganjam
+21,389,DISTRICT,Gajapati,577817,Urban,gajapati
+21,390,DISTRICT,Kandhamal,733110,Urban,kandhamal
+21,391,DISTRICT,Baudh,441162,Urban,baudh
+21,392,DISTRICT,Subarnapur,610183,Urban,subarnapur
+21,393,DISTRICT,Balangir,1648997,Metropolitan,balangir
+21,394,DISTRICT,Nuapada,610382,Urban,nuapada
+21,395,DISTRICT,Kalahandi,1576869,Metropolitan,kalahandi
+21,396,DISTRICT,Rayagada  ,967911,Urban,rayagada  
+21,397,DISTRICT,Nabarangapur ,1220946,Metropolitan,nabarangapur 
+21,398,DISTRICT,Koraput,1379647,Metropolitan,koraput
+21,399,DISTRICT,Malkangiri  ,613192,Urban,malkangiri  
+22,400,DISTRICT,Koriya,658917,Urban,koriya
+22,401,DISTRICT,Surguja,2359886,Metropolitan,surguja
+22,402,DISTRICT,Jashpur ,851669,Urban,jashpur 
+22,403,DISTRICT,Raigarh,1493984,Metropolitan,raigarh
+22,404,DISTRICT,Korba ,1206640,Metropolitan,korba 
+22,405,DISTRICT,Janjgir - Champa,1619707,Metropolitan,janjgir - champa
+22,406,DISTRICT,Bilaspur,2663629,Metropolitan,bilaspur
+22,407,DISTRICT,Kabeerdham,822526,Urban,kabeerdham
+22,408,DISTRICT,Rajnandgaon,1537133,Metropolitan,rajnandgaon
+22,409,DISTRICT,Durg,3343872,Metropolitan,durg
+22,410,DISTRICT,Raipur,4063872,Metropolitan,raipur
+22,411,DISTRICT,Mahasamund,1032754,Metropolitan,mahasamund
+22,412,DISTRICT,Dhamtari ,799781,Urban,dhamtari 
+22,413,DISTRICT,Uttar Bastar Kanker,748941,Urban,uttar bastar kanker
+22,414,DISTRICT,Bastar,1413199,Metropolitan,bastar
+22,415,DISTRICT,Narayanpur,139820,Urban,narayanpur
+22,416,DISTRICT,Dakshin Bastar Dantewada,533638,Urban,dakshin bastar dantewada
+22,417,DISTRICT,Bijapur,255230,Urban,bijapur
+23,418,DISTRICT,Sheopur ,687861,Urban,sheopur 
+23,419,DISTRICT,Morena,1965970,Metropolitan,morena
+23,420,DISTRICT,Bhind,1703005,Metropolitan,bhind
+23,421,DISTRICT,Gwalior,2032036,Metropolitan,gwalior
+23,422,DISTRICT,Datia,786754,Urban,datia
+23,423,DISTRICT,Shivpuri,1726050,Metropolitan,shivpuri
+23,424,DISTRICT,Tikamgarh,1445166,Metropolitan,tikamgarh
+23,425,DISTRICT,Chhatarpur,1762375,Metropolitan,chhatarpur
+23,426,DISTRICT,Panna,1016520,Metropolitan,panna
+23,427,DISTRICT,Sagar,2378458,Metropolitan,sagar
+23,428,DISTRICT,Damoh,1264219,Metropolitan,damoh
+23,429,DISTRICT,Satna,2228935,Metropolitan,satna
+23,430,DISTRICT,Rewa,2365106,Metropolitan,rewa
+23,431,DISTRICT,Umaria,644758,Urban,umaria
+23,432,DISTRICT,Neemuch ,826067,Urban,neemuch 
+23,433,DISTRICT,Mandsaur,1340411,Metropolitan,mandsaur
+23,434,DISTRICT,Ratlam,1455069,Metropolitan,ratlam
+23,435,DISTRICT,Ujjain,1986864,Metropolitan,ujjain
+23,436,DISTRICT,Shajapur,1512681,Metropolitan,shajapur
+23,437,DISTRICT,Dewas,1563715,Metropolitan,dewas
+23,438,DISTRICT,Dhar,2185793,Metropolitan,dhar
+23,439,DISTRICT,Indore,3276697,Metropolitan,indore
+23,440,DISTRICT,Khargone (West Nimar),1873046,Metropolitan,khargone (west nimar)
+23,441,DISTRICT,Barwani ,1385881,Metropolitan,barwani 
+23,442,DISTRICT,Rajgarh,1545814,Metropolitan,rajgarh
+23,443,DISTRICT,Vidisha,1458875,Metropolitan,vidisha
+23,444,DISTRICT,Bhopal,2371061,Metropolitan,bhopal
+23,445,DISTRICT,Sehore,1311332,Metropolitan,sehore
+23,446,DISTRICT,Raisen,1331597,Metropolitan,raisen
+23,447,DISTRICT,Betul,1575362,Metropolitan,betul
+23,448,DISTRICT,Harda ,570465,Urban,harda 
+23,449,DISTRICT,Hoshangabad,1241350,Metropolitan,hoshangabad
+23,450,DISTRICT,Katni ,1292042,Metropolitan,katni 
+23,451,DISTRICT,Jabalpur,2463289,Metropolitan,jabalpur
+23,452,DISTRICT,Narsimhapur,1091854,Metropolitan,narsimhapur
+23,453,DISTRICT,Dindori ,704524,Urban,dindori 
+23,454,DISTRICT,Mandla,1054905,Metropolitan,mandla
+23,455,DISTRICT,Chhindwara,2090922,Metropolitan,chhindwara
+23,456,DISTRICT,Seoni,1379131,Metropolitan,seoni
+23,457,DISTRICT,Balaghat,1701698,Metropolitan,balaghat
+23,458,DISTRICT,Guna,1241519,Metropolitan,guna
+23,459,DISTRICT,Ashoknagar,845071,Urban,ashoknagar
+23,460,DISTRICT,Shahdol,1066063,Metropolitan,shahdol
+23,461,DISTRICT,Anuppur,749237,Urban,anuppur
+23,462,DISTRICT,Sidhi,1127033,Metropolitan,sidhi
+23,463,DISTRICT,Singrauli,1178273,Metropolitan,singrauli
+23,464,DISTRICT,Jhabua,1025048,Metropolitan,jhabua
+23,465,DISTRICT,Alirajpur,728999,Urban,alirajpur
+23,466,DISTRICT,Khandwa (East Nimar),1310061,Metropolitan,khandwa (east nimar)
+23,467,DISTRICT,Burhanpur,757847,Urban,burhanpur
+24,468,DISTRICT,Kachchh,2092371,Metropolitan,kachchh
+24,469,DISTRICT,Banas Kantha,3120506,Metropolitan,banas kantha
+24,470,DISTRICT,Patan  ,1343734,Metropolitan,patan  
+24,471,DISTRICT,Mahesana,2035064,Metropolitan,mahesana
+24,472,DISTRICT,Sabar Kantha,2428589,Metropolitan,sabar kantha
+24,473,DISTRICT,Gandhinagar,1391753,Metropolitan,gandhinagar
+24,474,DISTRICT,Ahmadabad,7214225,Metropolitan,ahmadabad
+24,475,DISTRICT,Surendranagar,1756268,Metropolitan,surendranagar
+24,476,DISTRICT,Rajkot,3804558,Metropolitan,rajkot
+24,477,DISTRICT,Jamnagar,2160119,Metropolitan,jamnagar
+24,478,DISTRICT,Porbandar ,585449,Urban,porbandar 
+24,479,DISTRICT,Junagadh,2743082,Metropolitan,junagadh
+24,480,DISTRICT,Amreli,1514190,Metropolitan,amreli
+24,481,DISTRICT,Bhavnagar,2880365,Metropolitan,bhavnagar
+24,482,DISTRICT,Anand  ,2092745,Metropolitan,anand  
+24,483,DISTRICT,Kheda,2299885,Metropolitan,kheda
+24,484,DISTRICT,Panch Mahals,2390776,Metropolitan,panch mahals
+24,485,DISTRICT,Dohad  ,2127086,Metropolitan,dohad  
+24,486,DISTRICT,Vadodara,4165626,Metropolitan,vadodara
+24,487,DISTRICT,Narmada,590297,Urban,narmada
+24,488,DISTRICT,Bharuch,1551019,Metropolitan,bharuch
+24,489,DISTRICT,The Dangs,228291,Urban,the dangs
+24,490,DISTRICT,Navsari  ,1329672,Metropolitan,navsari  
+24,491,DISTRICT,Valsad,1705678,Metropolitan,valsad
+24,492,DISTRICT,Surat,6081322,Metropolitan,surat
+24,493,DISTRICT,Tapi,807022,Urban,tapi
+25,494,DISTRICT,Diu,52074,Semi-Urban,diu
+25,495,DISTRICT,Daman,191173,Urban,daman
+26,496,DISTRICT,Dadra & Nagar Haveli,343709,Urban,dadra & nagar haveli
+27,497,DISTRICT,Nandurbar,1648295,Metropolitan,nandurbar
+27,498,DISTRICT,Dhule,2050862,Metropolitan,dhule
+27,499,DISTRICT,Jalgaon,4229917,Metropolitan,jalgaon
+27,500,DISTRICT,Buldana,2586258,Metropolitan,buldana
+27,501,DISTRICT,Akola,1813906,Metropolitan,akola
+27,502,DISTRICT,Washim,1197160,Metropolitan,washim
+27,503,DISTRICT,Amravati,2888445,Metropolitan,amravati
+27,504,DISTRICT,Wardha,1300774,Metropolitan,wardha
+27,505,DISTRICT,Nagpur,4653570,Metropolitan,nagpur
+27,506,DISTRICT,Bhandara,1200334,Metropolitan,bhandara
+27,507,DISTRICT,Gondiya,1322507,Metropolitan,gondiya
+27,508,DISTRICT,Gadchiroli,1072942,Metropolitan,gadchiroli
+27,509,DISTRICT,Chandrapur,2204307,Metropolitan,chandrapur
+27,510,DISTRICT,Yavatmal,2772348,Metropolitan,yavatmal
+27,511,DISTRICT,Nanded,3361292,Metropolitan,nanded
+27,512,DISTRICT,Hingoli,1177345,Metropolitan,hingoli
+27,513,DISTRICT,Parbhani,1836086,Metropolitan,parbhani
+27,514,DISTRICT,Jalna,1959046,Metropolitan,jalna
+27,515,DISTRICT,Aurangabad,3701282,Metropolitan,aurangabad
+27,516,DISTRICT,Nashik,6107187,Metropolitan,nashik
+27,517,DISTRICT,Thane,11060148,Metropolitan,thane
+27,518,DISTRICT,Mumbai Suburban,9356962,Metropolitan,mumbai suburban
+27,519,DISTRICT,Mumbai,3085411,Metropolitan,mumbai
+27,520,DISTRICT,Raigarh,2634200,Metropolitan,raigarh
+27,521,DISTRICT,Pune,9429408,Metropolitan,pune
+27,522,DISTRICT,Ahmadnagar,4543159,Metropolitan,ahmadnagar
+27,523,DISTRICT,Bid,2585049,Metropolitan,bid
+27,524,DISTRICT,Latur,2454196,Metropolitan,latur
+27,525,DISTRICT,Osmanabad,1657576,Metropolitan,osmanabad
+27,526,DISTRICT,Solapur,4317756,Metropolitan,solapur
+27,527,DISTRICT,Satara,3003741,Metropolitan,satara
+27,528,DISTRICT,Ratnagiri,1615069,Metropolitan,ratnagiri
+27,529,DISTRICT,Sindhudurg,849651,Urban,sindhudurg
+27,530,DISTRICT,Kolhapur,3876001,Metropolitan,kolhapur
+27,531,DISTRICT,Sangli,2822143,Metropolitan,sangli
+28,532,DISTRICT,Adilabad,2741239,Metropolitan,adilabad
+28,533,DISTRICT,Nizamabad,2551335,Metropolitan,nizamabad
+28,534,DISTRICT,Karimnagar,3776269,Metropolitan,karimnagar
+28,535,DISTRICT,Medak,3033288,Metropolitan,medak
+28,536,DISTRICT,Hyderabad,3943323,Metropolitan,hyderabad
+28,537,DISTRICT,Rangareddy,5296741,Metropolitan,rangareddy
+28,538,DISTRICT,Mahbubnagar,4053028,Metropolitan,mahbubnagar
+28,539,DISTRICT,Nalgonda,3488809,Metropolitan,nalgonda
+28,540,DISTRICT,Warangal,3512576,Metropolitan,warangal
+28,541,DISTRICT,Khammam,2797370,Metropolitan,khammam
+28,542,DISTRICT,Srikakulam,2703114,Metropolitan,srikakulam
+28,543,DISTRICT,Vizianagaram,2344474,Metropolitan,vizianagaram
+28,544,DISTRICT,Visakhapatnam,4290589,Metropolitan,visakhapatnam
+28,545,DISTRICT,East Godavari,5154296,Metropolitan,east godavari
+28,546,DISTRICT,West Godavari,3936966,Metropolitan,west godavari
+28,547,DISTRICT,Krishna,4517398,Metropolitan,krishna
+28,548,DISTRICT,Guntur,4887813,Metropolitan,guntur
+28,549,DISTRICT,Prakasam,3397448,Metropolitan,prakasam
+28,550,DISTRICT,Sri Potti Sriramulu Nellore,2963557,Metropolitan,sri potti sriramulu nellore
+28,551,DISTRICT,Y.S.R.,2882469,Metropolitan,y.s.r.
+28,552,DISTRICT,Kurnool,4053463,Metropolitan,kurnool
+28,553,DISTRICT,Anantapur,4081148,Metropolitan,anantapur
+28,554,DISTRICT,Chittoor,4174064,Metropolitan,chittoor
+29,555,DISTRICT,Belgaum,4779661,Metropolitan,belgaum
+29,556,DISTRICT,Bagalkot ,1889752,Metropolitan,bagalkot 
+29,557,DISTRICT,Bijapur,2177331,Metropolitan,bijapur
+29,558,DISTRICT,Bidar,1703300,Metropolitan,bidar
+29,559,DISTRICT,Raichur,1928812,Metropolitan,raichur
+29,560,DISTRICT,Koppal,1389920,Metropolitan,koppal
+29,561,DISTRICT,Gadag,1064570,Metropolitan,gadag
+29,562,DISTRICT,Dharwad,1847023,Metropolitan,dharwad
+29,563,DISTRICT,Uttara Kannada,1437169,Metropolitan,uttara kannada
+29,564,DISTRICT,Haveri,1597668,Metropolitan,haveri
+29,565,DISTRICT,Bellary,2452595,Metropolitan,bellary
+29,566,DISTRICT,Chitradurga,1659456,Metropolitan,chitradurga
+29,567,DISTRICT,Davanagere,1945497,Metropolitan,davanagere
+29,568,DISTRICT,Shimoga,1752753,Metropolitan,shimoga
+29,569,DISTRICT,Udupi,1177361,Metropolitan,udupi
+29,570,DISTRICT,Chikmagalur,1137961,Metropolitan,chikmagalur
+29,571,DISTRICT,Tumkur,2678980,Metropolitan,tumkur
+29,572,DISTRICT,Bangalore,9621551,Metropolitan,bangalore
+29,573,DISTRICT,Mandya,1805769,Metropolitan,mandya
+29,574,DISTRICT,Hassan,1776421,Metropolitan,hassan
+29,575,DISTRICT,Dakshina Kannada,2089649,Metropolitan,dakshina kannada
+29,576,DISTRICT,Kodagu,554519,Urban,kodagu
+29,577,DISTRICT,Mysore,3001127,Metropolitan,mysore
+29,578,DISTRICT,Chamarajanagar,1020791,Metropolitan,chamarajanagar
+29,579,DISTRICT,Gulbarga,2566326,Metropolitan,gulbarga
+29,580,DISTRICT,Yadgir,1174271,Metropolitan,yadgir
+29,581,DISTRICT,Kolar,1536401,Metropolitan,kolar
+29,582,DISTRICT,Chikkaballapura,1255104,Metropolitan,chikkaballapura
+29,583,DISTRICT,Bangalore Rural,990923,Urban,bangalore rural
+29,584,DISTRICT,Ramanagara,1082636,Metropolitan,ramanagara
+30,585,DISTRICT,North Goa,818008,Urban,north goa
+30,586,DISTRICT,South Goa,640537,Urban,south goa
+31,587,DISTRICT,Lakshadweep,64473,Semi-Urban,lakshadweep
+32,588,DISTRICT,Kasaragod,1307375,Metropolitan,kasaragod
+32,589,DISTRICT,Kannur,2523003,Metropolitan,kannur
+32,590,DISTRICT,Wayanad,817420,Urban,wayanad
+32,591,DISTRICT,Kozhikode,3086293,Metropolitan,kozhikode
+32,592,DISTRICT,Malappuram,4112920,Metropolitan,malappuram
+32,593,DISTRICT,Palakkad,2809934,Metropolitan,palakkad
+32,594,DISTRICT,Thrissur,3121200,Metropolitan,thrissur
+32,595,DISTRICT,Ernakulam,3282388,Metropolitan,ernakulam
+32,596,DISTRICT,Idukki ,1108974,Metropolitan,idukki 
+32,597,DISTRICT,Kottayam,1974551,Metropolitan,kottayam
+32,598,DISTRICT,Alappuzha,2127789,Metropolitan,alappuzha
+32,599,DISTRICT,Pathanamthitta,1197412,Metropolitan,pathanamthitta
+32,600,DISTRICT,Kollam,2635375,Metropolitan,kollam
+32,601,DISTRICT,Thiruvananthapuram,3301427,Metropolitan,thiruvananthapuram
+33,602,DISTRICT,Thiruvallur,3728104,Metropolitan,thiruvallur
+33,603,DISTRICT,Chennai,4646732,Metropolitan,chennai
+33,604,DISTRICT,Kancheepuram,3998252,Metropolitan,kancheepuram
+33,605,DISTRICT,Vellore,3936331,Metropolitan,vellore
+33,606,DISTRICT,Tiruvannamalai,2464875,Metropolitan,tiruvannamalai
+33,607,DISTRICT,Viluppuram,3458873,Metropolitan,viluppuram
+33,608,DISTRICT,Salem,3482056,Metropolitan,salem
+33,609,DISTRICT,Namakkal   ,1726601,Metropolitan,namakkal   
+33,610,DISTRICT,Erode,2251744,Metropolitan,erode
+33,611,DISTRICT,The Nilgiris,735394,Urban,the nilgiris
+33,612,DISTRICT,Dindigul,2159775,Metropolitan,dindigul
+33,613,DISTRICT,Karur ,1064493,Metropolitan,karur 
+33,614,DISTRICT,Tiruchirappalli,2722290,Metropolitan,tiruchirappalli
+33,615,DISTRICT,Perambalur  ,565223,Urban,perambalur  
+33,616,DISTRICT,Ariyalur  ,754894,Urban,ariyalur  
+33,617,DISTRICT,Cuddalore,2605914,Metropolitan,cuddalore
+33,618,DISTRICT,Nagapattinam  ,1616450,Metropolitan,nagapattinam  
+33,619,DISTRICT,Thiruvarur,1264277,Metropolitan,thiruvarur
+33,620,DISTRICT,Thanjavur,2405890,Metropolitan,thanjavur
+33,621,DISTRICT,Pudukkottai,1618345,Metropolitan,pudukkottai
+33,622,DISTRICT,Sivaganga,1339101,Metropolitan,sivaganga
+33,623,DISTRICT,Madurai,3038252,Metropolitan,madurai
+33,624,DISTRICT,Theni  ,1245899,Metropolitan,theni  
+33,625,DISTRICT,Virudhunagar,1942288,Metropolitan,virudhunagar
+33,626,DISTRICT,Ramanathapuram,1353445,Metropolitan,ramanathapuram
+33,627,DISTRICT,Thoothukkudi,1750176,Metropolitan,thoothukkudi
+33,628,DISTRICT,Tirunelveli ,3077233,Metropolitan,tirunelveli 
+33,629,DISTRICT,Kanniyakumari,1870374,Metropolitan,kanniyakumari
+33,630,DISTRICT,Dharmapuri,1506843,Metropolitan,dharmapuri
+33,631,DISTRICT,Krishnagiri,1879809,Metropolitan,krishnagiri
+33,632,DISTRICT,Coimbatore,3458045,Metropolitan,coimbatore
+33,633,DISTRICT,Tiruppur,2479052,Metropolitan,tiruppur
+34,634,DISTRICT,Yanam,55626,Semi-Urban,yanam
+34,635,DISTRICT,Puducherry,950289,Urban,puducherry
+34,636,DISTRICT,Mahe,41816,Semi-Urban,mahe
+34,637,DISTRICT,Karaikal,200222,Urban,karaikal
+35,638,DISTRICT,Nicobars,36842,Semi-Urban,nicobars
+35,639,DISTRICT,North  & Middle Andaman,105597,Urban,north  & middle andaman
+35,640,DISTRICT,South Andaman,238142,Urban,south andaman
